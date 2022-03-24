@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "name": "manish",
+      "age": "02",
+      "address": "bihar",
+      "maritalState": false,
+      "department": "it",
+      "salary": "4000000",
+      "id": 1
+    },
+    {
+      "name": "manish",
+      "age": "20",
+      "address": "bihar",
+      "maritalState": false,
+      "department": "it",
+      "salary": "400000",
+      "id": 2
+    },
+    {
+      "name": "manish",
+      "age": "20",
+      "address": "bihar",
+      "maritalState": false,
+      "department": "it",
+      "salary": "2020",
+      "id": 3
+    },
+    {
+      "name": "abhi",
+      "age": "",
+      "address": "",
+      "maritalState": false,
+      "department": "",
+      "id": 4
+    },
+    {
+      "name": "abhi",
+      "age": "20",
+      "address": "bihar",
+      "maritalState": false,
+      "department": "it",
+      "salary": "4500",
+      "id": 5
+    },
+    {
+      "name": "vishal",
+      "age": "20",
+      "address": "Allahabad",
+      "maritalState": true,
+      "department": "Finance",
+      "salary": "20000",
+      "id": 6
+    },
+    {
+      "name": "Sunny",
+      "age": "25",
+      "address": "Delhi",
+      "maritalState": "Married",
+      "department": "Finance",
+      "salary": "45000",
+      "id": 7
+    },
+    {
+      "name": "Abhishek Kasera",
+      "age": "20",
+      "address": "464/360 D",
+      "maritalState": "Married",
+      "department": "HR",
+      "salary": "1520000",
+      "id": 8
+    }
+  ]
+}

@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2{
+  border:1px solid black;
+  text-align: center;
+  width: 30%;
+  border-radius: 30px;
+ 
+}
+
+/* h1{
+ text-align: center;
+}
+
+
+h2{
+  text-align: center;
+}
+
+input{
+   margin-left: 45%;
+} */
